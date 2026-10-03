@@ -17,25 +17,6 @@ st.title("💰APP CÔNG CỤ TÍNH LÃI GỬI TIẾT KIỆM_PHẠM KIỀU TƯỜ
 st.write("Nhập thông tin khoản tiền gửi để tính số tiền lãi.")
 
 st.divider()
-import streamlit as st
-import pandas as pd
-import numpy as np
-import io
-from datetime import date
-from dateutil.relativedelta import relativedelta
-import plotly.graph_objects as go
-
-
-# ============================================================
-# 1. CẤU HÌNH ỨNG DỤNG
-# ============================================================
-
-st.set_page_config(
-    page_title="Smart Savings Calculator",
-    page_icon="💰",
-    layout="wide"
-)
-
 
 # ============================================================
 # 2. CẤU HÌNH LÃI SUẤT THAM CHIẾU
