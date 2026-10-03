@@ -17,8 +17,6 @@ st.title("💰APP CÔNG CỤ TÍNH LÃI GỬI TIẾT KIỆM_PHẠM KIỀU TƯỜ
 st.write("Nhập thông tin khoản tiền gửi để tính số tiền lãi.")
 
 st.divider()
-
-```python
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -1183,5 +1181,4 @@ st.caption(
     "Kết quả thực tế có thể khác do cách tính lãi, "
     "ngày gửi, ngày đáo hạn, thuế và chính sách từng ngân hàng."
 )
-```
 
