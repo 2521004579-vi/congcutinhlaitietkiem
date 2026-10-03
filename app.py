@@ -1,4 +1,4 @@
-```python
+
 import streamlit as st
 
 # =========================
@@ -164,4 +164,4 @@ st.caption(
     "Lưu ý: Đây là công cụ tính theo phương pháp lãi đơn, "
     "chưa xét thuế, phí hoặc các quy định riêng của từng ngân hàng."
 )
-```
+
